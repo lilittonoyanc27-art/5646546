@@ -1,0 +1,6 @@
+{
+  "name": "¡Vamos a jugar! — Испанская викторина",
+  "description": "Интерактивная игра-викторина для изучения испанского языка (A1–A2) для взрослых. 6 тематических раундов, аудиопроизношение, экспресс-режим и упражнения.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
